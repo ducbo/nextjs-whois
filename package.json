@@ -37,6 +37,6 @@
     "redux-thunk": "^2.3.0",
     "sass": "^1.32.8",
     "whois-parsed-v2": "^1.0.0",
-    "whois-raw": "git://github.com/ducbo/whois-raw#f35e7421b1297f5c7167ed4b52b579b3166c8184"
+    "whois-raw": "ducbo/whois-raw"
   }
 }
