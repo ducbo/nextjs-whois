@@ -1,0 +1,12 @@
+{
+    "title": "WHOIS Result for \"{{domain}}\"",
+    "status": "Status:",
+    "register-date": "Register Date:",
+    "update-date": "Update Date:",
+    "expiry-date": "Expiry Date:",
+    "remaining-time": "Remaining Time:",
+    "registrar": "Registrar:",
+    "nameservers": "Nameservers:",
+    "available": "Available",
+    "unavailable": "Unavailable"
+}
